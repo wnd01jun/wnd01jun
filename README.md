@@ -1,4 +1,4 @@
-숭실대학교 중앙동아리 유어슈 백엔드 파트 지원 과제입니다. 
+숭실대학교 소프트웨어학부 재학중인 이창준입니다.
 
 <!---
 wnd01jun/wnd01jun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
